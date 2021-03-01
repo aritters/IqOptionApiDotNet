@@ -7,26 +7,24 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Title>IqOption Api Dot Net</Title>
-    <Authors>Jorge Beserra</Authors>
-    <Company>Jorge Beserra</Company>
-    <Copyright>Copyright (c) Jorge Beserra 2020</Copyright>
-    <Description>Iqoption Api for DOTNET - https://github.com/JorgeBeserra/IqOptionApiDotNet
-based in Iqoption Api for DOTNET - https://github.com/MongkonEiadon/Iqoption.Net)</Description>
+    <Authors>Anderson Ritter de Souza</Authors>
+    <Company>Anderson Ritter de Souza</Company>
+    <Copyright>Copyright (c) Anderson Ritter de Souza 2020</Copyright>
+    <Description>Iqoption Api for DOTNET - https://github.com/aritters/IqOptionApiDotNet
+based in Iqoption Api for DOTNET - https://github.com/JorgeBeserra/IqOptionApiDotNet)</Description>
     <PackageTags>IqOption Api DOT NET</PackageTags>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/JorgeBeserra/IqOptionApiDotNet</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/JorgeBeserra/IqOptionApiDotNet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aritters/IqOptionApiDotNet</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/aritters/IqOptionApiDotNet</PackageProjectUrl>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <PackageReleaseNotes>Bug fix issue #62
-- Erro ao abrir operação binária de 5M nos segundos finais ao inicio da vela (Thanks @andreptcosta)</PackageReleaseNotes>
     <NoWarn>1701;1702;1705;1591</NoWarn>
     <RootNamespace>IqOptionApiDotNet</RootNamespace>
     <AssemblyName>IqOptionApiDotNet</AssemblyName>
-    <PackageId>IqOptionApiDotNet</PackageId>
-    <AssemblyVersion>1.0.0.13</AssemblyVersion>
-    <FileVersion>1.0.0.13</FileVersion>
-    <Version>1.0.13</Version>
+    <PackageId>Ritter.IqOptionApiDotNet</PackageId>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.00</FileVersion>
+    <Version>1.0.0</Version>
     <ApplicationIcon>logoapi.ico</ApplicationIcon>
 	<PackageIcon>LogoApi128x128.png</PackageIcon>
   </PropertyGroup>
